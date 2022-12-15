@@ -1,9 +1,16 @@
-# BioInfaLab6
+# Домашнее задание 6.
+## Предсказание и парное выравнивание структур белков
 
-Первичная последовательность белка - MKGMLTGPVTILNWSWPREDITHEEQTKQLALAIRDEVLDLEAAGIKIIQIDEAALREKLPLRKSDWHAKYLDWAIPAFRLVHSAVKPTTQIHTHMCYSE
+#### 1. Последовательность, название программ-предсказателей и программы-выравнивателя
 
-Инструмент 1 фолдинга белков - ESMFold
+Первичная последовательность белка - ```MKGMLTGPVTILNWSWPREDITHEEQTKQLALAIRDEVLDLEAAGIKIIQIDEAALREKLPLRKSDWHAKYLDWAIPAFRLVHSAVKPTTQIHTHMCYSE```
 
-Инструмент 2 фолдинга белков - OpenFold
+Инструмент 1 фолдинга белков - **ESMFold**
 
-Инструмент парного выравнивания - MultiProt
+Инструмент 2 фолдинга белков - **OpenFold**
+
+Инструмент парного выравнивания - **MultiProt**
+
+#### 2. Полученные ноутбуки с предсказанной структурой (формат *.ipynb):
+
+[ESMFold.ipynb](/ESMFold.ipynb) и [OpenFold.ipynb](/OpenFold.ipynb)
