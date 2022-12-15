@@ -1,7 +1,7 @@
 # Домашнее задание 6.
 ## Предсказание и парное выравнивание структур белков
 
-#### 1. Последовательность, название программ-предсказателей и программы-выравнивателя
+#### 1. Последовательность, название программ-предсказателей и программы-выравнивателя:
 
 Первичная последовательность белка - ```MKGMLTGPVTILNWSWPREDITHEEQTKQLALAIRDEVLDLEAAGIKIIQIDEAALREKLPLRKSDWHAKYLDWAIPAFRLVHSAVKPTTQIHTHMCYSE```
 
@@ -14,3 +14,7 @@
 #### 2. Полученные ноутбуки с предсказанной структурой (формат *.ipynb):
 
 [ESMFold.ipynb](/ESMFold.ipynb) и [OpenFold.ipynb](/OpenFold.ipynb)
+
+#### 3. Полученные предсказания структур в формате PDB:
+
+[ESMFold.pdb](/ESMFold_result/ptm0.747_r3_default.pdb) и [OpenFold.pdb](/OpenFold_result/best_xxx.pdb)
